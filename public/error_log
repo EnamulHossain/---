@@ -1,0 +1,1 @@
+[06-Mar-2022 11:10:17 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\Admin\Reports\VoucherReportController as VoucherReportController because the name is already in use in /home/bluestarsomithi/ngo_panel/routes/web.php on line 54
